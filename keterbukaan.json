@@ -1,7 +1,8 @@
 {
-  "scraped_at": "2026-01-22T18:19:15.511Z",
-  "total": 22,
+  "scraped_at": "2026-01-23T01:01:55.874Z",
+  "total": 20,
   "items": [
+    "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_KSEI/LK-23012026-5681-00.pdf-0.pdf",
     "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202601/cf16a584a3_635cae4d63.pdf",
     "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202601/e24bea076c_80fd548af5.pdf",
     "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202601/fcdfbe6b60_bd1dba0c14.pdf",
@@ -20,9 +21,6 @@
     "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202601/f7a83df1d1_520e179c6f.pdf",
     "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202601/2917a46b3f_4b7ad48849.pdf",
     "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202601/751a01b05d_f7556613b1.pdf",
-    "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202601/2d71f3c246_21040a3d60.pdf",
-    "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202601/93d75fdcfc_b08f19f5d2.pdf",
-    "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202601/0eade72655_100e4b5464.pdf",
-    "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202601/f58a8b8099_eddb13d833.pdf"
+    "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202601/2d71f3c246_21040a3d60.pdf"
   ]
 }
